@@ -1,8 +1,0 @@
-familia,comparacion,b,c,estadistico,p_value,version,p_ajustado_holm,significativo_holm
-A_entre_entornos,sklearn:LogisticRegression vs spark:LogisticRegression,10477,7100,648.4255561244809,4.914986396074605e-143,chi2 con corrección de continuidad,4.914986396074605e-143,True
-A_entre_entornos,sklearn:DecisionTree vs spark:DecisionTree,59212,9057,36845.76771301762,0.0,chi2 con corrección de continuidad,0.0,True
-A_entre_entornos,sklearn:RandomForest vs spark:RandomForest,45937,7481,27683.309464974354,0.0,chi2 con corrección de continuidad,0.0,True
-A_entre_entornos,sklearn:LinearSVC vs spark:LinearSVC,5469,22879,10691.16978270072,0.0,chi2 con corrección de continuidad,0.0,True
-A_entre_entornos,sklearn:NaiveBayes vs spark:NaiveBayes,1899,369,1030.7940917107583,3.6378165433822154e-226,chi2 con corrección de continuidad,7.275633086764431e-226,True
-B_top2_sklearn,sklearn:GradientBoosting vs sklearn:LogisticRegression,10336,11306,43.3860548932631,4.4937928458683716e-11,chi2 con corrección de continuidad,4.4937928458683716e-11,True
-C_top2_spark,spark:LogisticRegression vs spark:RandomForest,58181,10348,33385.86910650965,0.0,chi2 con corrección de continuidad,0.0,True
